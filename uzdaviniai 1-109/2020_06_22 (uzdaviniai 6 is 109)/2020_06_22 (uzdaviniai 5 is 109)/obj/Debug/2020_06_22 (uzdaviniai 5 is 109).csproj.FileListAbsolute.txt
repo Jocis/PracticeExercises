@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\C#\uzdaviniai 1-109\2020_06_22 (uzdaviniai 5 is 109)\2020_06_22 (uzdaviniai 5 is 109)\bin\Debug\2020_06_22 (uzdaviniai 5 is 109).exe.config
+C:\Users\User\Desktop\C#\uzdaviniai 1-109\2020_06_22 (uzdaviniai 5 is 109)\2020_06_22 (uzdaviniai 5 is 109)\bin\Debug\2020_06_22 (uzdaviniai 5 is 109).exe
+C:\Users\User\Desktop\C#\uzdaviniai 1-109\2020_06_22 (uzdaviniai 5 is 109)\2020_06_22 (uzdaviniai 5 is 109)\bin\Debug\2020_06_22 (uzdaviniai 5 is 109).pdb
+C:\Users\User\Desktop\C#\uzdaviniai 1-109\2020_06_22 (uzdaviniai 5 is 109)\2020_06_22 (uzdaviniai 5 is 109)\obj\Debug\2020_06_22 (uzdaviniai 5 is 109).csprojAssemblyReference.cache
+C:\Users\User\Desktop\C#\uzdaviniai 1-109\2020_06_22 (uzdaviniai 5 is 109)\2020_06_22 (uzdaviniai 5 is 109)\obj\Debug\2020_06_22 (uzdaviniai 5 is 109).csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\uzdaviniai 1-109\2020_06_22 (uzdaviniai 5 is 109)\2020_06_22 (uzdaviniai 5 is 109)\obj\Debug\2020_06_22 (uzdaviniai 5 is 109).exe
+C:\Users\User\Desktop\C#\uzdaviniai 1-109\2020_06_22 (uzdaviniai 5 is 109)\2020_06_22 (uzdaviniai 5 is 109)\obj\Debug\2020_06_22 (uzdaviniai 5 is 109).pdb
